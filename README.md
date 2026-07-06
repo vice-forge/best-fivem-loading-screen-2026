@@ -8,7 +8,7 @@
 
 > [!IMPORTANT]
 > **Want to upload your own YouTube video background without touching code?**  
-> Use the visual builder at **[Vice-Forge.com](https://vice-forge.com)** to instantly customize this template with your own video, logo, and music. No HTML/CSS knowledge needed!
+> Use the visual builder at **[Vice-Forge.com](https://vice-forge.com/builder?template=carbon-racing)** to instantly customize this template with your own video, logo, and music. No HTML/CSS knowledge needed!
 
 ## ✨ Features
 * 🎬 **Video Backgrounds:** Supports high-quality cinematic backgrounds.
